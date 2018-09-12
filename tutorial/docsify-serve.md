@@ -1,6 +1,6 @@
 # docsify本地部署
 
-在点击`clone or download`之前，确认本机是否有[git](https://git-scm.com/)与[node](https://nodejs.org/zh-cn/)生产环境若没有请点击下载，安装比较傻瓜化，一直点`下一步`或`next`即可
+点击`clone or download`之前，确认本机是否有[git](https://git-scm.com/)与[node](https://nodejs.org/zh-cn/)生产环境若没有请点击下载，安装比较傻瓜化，一直点`下一步`或`next`即可
 
 右击选择`git bash`在命令行中输入 `npm i docsify-cli -g`
 
