@@ -31,6 +31,7 @@ tips:
   * 某爱国手机（不说品牌的原因，我可受不了这强大的水军）已被媒体曝光有监控后门且刷机及其困难
 * telegram关注一下 [相关vpn评测](https://t.me/vpnchina)、[tg代理](https://t.me/TgProxies) ，会对番茄有所帮助
 * 本书的 v2ray-4-heroku 操作，可能会有封禁的风险，但搭建ss爬虫代理网站不会存在该风险
+* [glyptodon](https://demo.glyptodon.com)和 [rabb.it](https://www.rabb.it/)的原理其实是一样的
 
 <!--
 
