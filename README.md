@@ -30,6 +30,7 @@ tips:
   * 因为国产手机会阉割谷歌框架（GMS），良心一点可以在系统设置中开启GMS功能
   * 某爱国手机（不说品牌的原因，我可受不了这强大的水军）已被媒体曝光有监控后门且刷机及其困难
 * telegram关注一下 [相关vpn评测](https://t.me/vpnchina)、[tg代理](https://t.me/TgProxies) ，会对番茄有所帮助
+* 另外[账号圈](https://t.me/XRAcc)也有些额外的付费vpn体验账号分享
 * 本书的 v2ray-4-heroku 操作，可能会有封禁的风险，但搭建ss爬虫代理网站不会存在该风险
 * [glyptodon](https://demo.glyptodon.com) 和 [rabb.it](https://www.rabb.it/) 的原理其实是一样的
 
