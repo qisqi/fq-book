@@ -32,7 +32,7 @@ tips:
 * telegram关注一下 [相关vpn评测](https://t.me/vpnchina)、[tg代理](https://t.me/TgProxies) ，会对番茄有所帮助，另外[账号圈](https://t.me/XRAcc)也有些额外的付费vpn体验账号分享
 * 本书的 v2ray-4-heroku 操作，可能会有封禁的风险，但搭建ss爬虫代理网站不会存在该风险
 * [glyptodon](https://demo.glyptodon.com) 和 [rabb.it](https://www.rabb.it/) 的原理是相通的，不就是本地部署在网页里的一台电脑...
-* 针对 crx_header_invalid 的解决方案:crx扩展格式修改成rar压缩格式 -> 将解压出来的文件全部放在一个文件夹内，通过扩展程序 -> 加载已解压的扩展程序 -> 选中这整个文件夹，即可
+* 针对 crx_header_invalid 的解决方案：crx扩展格式修改成rar压缩格式 -> 将解压出来的文件全部放在一个文件夹内，通过扩展程序 -> 加载已解压的扩展程序 -> 选中这整个文件夹，即可
 
 <!--
 
