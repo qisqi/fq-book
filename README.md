@@ -34,7 +34,7 @@ tips:
 * telegram关注一下 [相关vpn评测](https://t.me/vpnchina)、[tg代理](https://t.me/TgProxies) ，会对番茄有所帮助，另外[账号圈](https://t.me/XRAcc)也有些额外的付费vpn体验账号分享
 * 针对 crx_header_invalid 的解决方案：
 ```
-crx扩展格式修改成rar压缩格式 -> 将解压出来的文件全部放在一个文件夹内，通过扩展程序 -> 加载已解压的扩展程序 -> 选中这整个文件夹，即可
+crx扩展格式修改成rar压缩格式 -> 解压rar全部文件到文件夹 -> 加载已解压的扩展程序 -> 选中这整个文件夹，即可
 ```
 
 
